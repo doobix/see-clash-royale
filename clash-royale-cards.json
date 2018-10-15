@@ -1,0 +1,356 @@
+{
+  "cards": [
+    {
+      "name": "Archers",
+      "rarity": "Common"
+    },
+    {
+      "name": "Arrows",
+      "rarity": "Common"
+    },
+    {
+      "name": "Baby Dragon",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Balloon",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Bandit",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Barbarian Barrel",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Barbarian Hut",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Barbarians",
+      "rarity": "Common"
+    },
+    {
+      "name": "Bats",
+      "rarity": "Common"
+    },
+    {
+      "name": "Battle Ram",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Bomb Tower",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Bomber",
+      "rarity": "Common"
+    },
+    {
+      "name": "Bowler",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Cannon",
+      "rarity": "Common"
+    },
+    {
+      "name": "Cannon Cart",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Clone",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Dark Prince",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Dart Goblin",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Electro Wizard",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Elite Barbarians",
+      "rarity": "Common"
+    },
+    {
+      "name": "Elixir Collector",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Executioner",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Fire Spirits",
+      "rarity": "Common"
+    },
+    {
+      "name": "Fireball",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Flying Machine",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Freeze",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Furnice",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Giant",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Giant Skeleton",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Giant Snowball",
+      "rarity": "Common"
+    },
+    {
+      "name": "Goblin Barrel",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Goblin Gang",
+      "rarity": "Common"
+    },
+    {
+      "name": "Goblin Giant",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Goblin Hut",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Goblins",
+      "rarity": "Common"
+    },
+    {
+      "name": "Golem",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Graveyard",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Guards",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Heal",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Hog Rider",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Hunter",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Ice Golem",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Ice Spirit",
+      "rarity": "Common"
+    },
+    {
+      "name": "Ice Wizard",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Inferno Dragon",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Interno Tower",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Knight",
+      "rarity": "Common"
+    },
+    {
+      "name": "Lava Hound",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Lightning",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Lumberjack",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Magic Archer",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Mega Knight",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Mega Minion",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Miner",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Mini P.E.K.K.A",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Minion Horde",
+      "rarity": "Common"
+    },
+    {
+      "name": "Minions",
+      "rarity": "Common"
+    },
+    {
+      "name": "Mirror",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Mortar",
+      "rarity": "Common"
+    },
+    {
+      "name": "Musketeer",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Night Witch",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "P.E.K.K.A",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Poison",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Prince",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Princess",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Rage",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Rascals",
+      "rarity": "Common"
+    },
+    {
+      "name": "Rocket",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Royal Ghost",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Royal Giant",
+      "rarity": "Common"
+    },
+    {
+      "name": "Royal Hogs",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Royal Recruits",
+      "rarity": "Common"
+    },
+    {
+      "name": "Skeleton Army",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Skeleton Barrel",
+      "rarity": "Common"
+    },
+    {
+      "name": "Skeletons",
+      "rarity": "Common"
+    },
+    {
+      "name": "Sparky",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Spear Goblins",
+      "rarity": "Common"
+    },
+    {
+      "name": "Tesla",
+      "rarity": "Common"
+    },
+    {
+      "name": "The Log",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Three Musketeers",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Tombstone",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Tornado",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Valkyrie",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Witch",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Wizard",
+      "rarity": "Rare"
+    },
+    {
+      "name": "X-Bow",
+      "rarity": "Epic"
+    },
+    {
+      "name": "Zap",
+      "rarity": "Common"
+    },
+    {
+      "name": "Zappies",
+      "rarity": "Rare"
+    }
+  ]
+}
