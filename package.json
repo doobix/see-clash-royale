@@ -1,0 +1,23 @@
+{
+  "name": "see-clash-royale",
+  "version": "0.0.1",
+  "description": "Random Clash Royal stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doobix/see-clash-royale.git"
+  },
+  "keywords": [
+    "clash",
+    "royale"
+  ],
+  "author": "doobix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doobix/see-clash-royale/issues"
+  },
+  "homepage": "https://github.com/doobix/see-clash-royale#readme"
+}
